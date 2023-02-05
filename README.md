@@ -12,4 +12,4 @@ THEN the game is over
 WHEN the game is over  
 THEN I can save my initials and score  
 
-Link to deployed application: https://trayprey.github.io/bookish-lamp/  
+Link to deployed application: https://trayprey.github.io/Code_Quiz/
